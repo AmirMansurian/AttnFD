@@ -1,4 +1,4 @@
-## Adaptive Inter-Class Similarity Distillation for Semantic Segmentation 
+## Attention-guided Feature Distillation for Semantic Segmentation 
  The source code of [(Attention-guided Feature Distillation for Semantic Segmentation)](https://arxiv.org/abs/2308.04243).
  
  Also, see our previous work [(Adaptive Inter-Class Similarity Distillation for Semantic Segmentation)](https://github.com/AmirMansurian/AICSD).
