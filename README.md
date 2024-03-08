@@ -66,7 +66,7 @@ Comparison of results on the Cityscapes dataset.
 
 - Distillation
   ```shell
-  python train_kd.py --backbone resnet18 --dataset pascal  --nesterov --epochs 120 --batch-size 6 --attn_lambda 2
+  python train_kd.py --backbone resnet18 --dataset pascal --nesterov --epochs 120 --batch-size 6 --attn_lambda 2
   ```
  
  ## Citation
