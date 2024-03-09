@@ -26,6 +26,18 @@
 Download the datasets and teacher models. Put the teacher model in ```pretrained/``` and set the path to the datasets in ```mypath.py```.
 
 
+### Training
+- Without distillation
+  ```shell
+  python train.py --backbone resnet18 --dataset pascal --nesterov --epochs 120 --batch-size 6
+  ```
+
+- Distillation
+  ```shell
+  python train_kd.py --backbone resnet18 --dataset pascal --nesterov --epochs 120 --batch-size 6 --attn_lambda 2
+  ```
+
+
 ### Experimental Resutls
 
 
@@ -55,19 +67,8 @@ Comparison of results on the Cityscapes dataset.
 | Student + DistKD           | 71.81 (+7.72) | 80.73 (+5.93) |
 | Student + CIRKD         | 70.49 (+6.40) | 79.99 (+5.19) |
 | Student + LAD         | 71.37 (+7.28) | 80.93 (+6.13)   |
-| Student + AICSD (ours) | **73.04 (+8.95)** | **83.01 (+8.21)** |
+| Student + AttnFD (ours) | **73.04 (+8.95)** | **83.01 (+8.21)** |
 
-
-### Training
-- Without distillation
-  ```shell
-  python train.py --backbone resnet18 --dataset pascal --nesterov --epochs 120 --batch-size 6
-  ```
-
-- Distillation
-  ```shell
-  python train_kd.py --backbone resnet18 --dataset pascal --nesterov --epochs 120 --batch-size 6 --attn_lambda 2
-  ```
  
  ## Citation
 If you use this repository for your research or wish to refer to our distillation method, please use the following BibTeX entry:
