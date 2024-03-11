@@ -38,7 +38,7 @@ Download the datasets and teacher models. Put the teacher model in ```pretrained
   ```
 
 
-### Experimental Resutls
+### Experimental Results
 
 
 Comparison of results on the PascalVOC dataset.
