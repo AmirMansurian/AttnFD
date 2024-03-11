@@ -1,5 +1,5 @@
 ## Attention-guided Feature Distillation for Semantic Segmentation 
- The source code of [(Attention-guided Feature Distillation for Semantic Segmentation)](https://arxiv.org/abs/2308.04243).
+ The source code of [(Attention-guided Feature Distillation for Semantic Segmentation)](https://arxiv.org/abs/2403.05451).
  
  Also, see our previous work [(Adaptive Inter-Class Similarity Distillation for Semantic Segmentation)](https://github.com/AmirMansurian/AICSD).
 
@@ -38,7 +38,7 @@ Download the datasets and teacher models. Put the teacher model in ```pretrained
   ```
 
 
-### Experimental Resutls
+### Experimental Results
 
 
 Comparison of results on the PascalVOC dataset.
@@ -73,11 +73,11 @@ Comparison of results on the Cityscapes dataset.
  ## Citation
 If you use this repository for your research or wish to refer to our distillation method, please use the following BibTeX entry:
 ```bibtex
-@article{mansourian2023aicsd,
-  title={AICSD: Adaptive Inter-Class Similarity Distillation for Semantic Segmentation},
-  author={Mansourian, Amir M and Ahmadi, Rozhan and Kasaei, Shohreh},
-  journal={arXiv preprint arXiv:2308.04243},
-  year={2023}
+@article{mansourian2024attentionguided,
+  title={Attention-guided Feature Distillation for Semantic Segmentation},
+  author={Mansourian, Amir M and Jalali, Arya and Ahmadi, Rozhan and Kasaei, Shohreh},
+  journal={arXiv preprint arXiv:2403.05451},
+  year={2024}
 }
 ```
 
