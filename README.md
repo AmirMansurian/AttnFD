@@ -79,6 +79,13 @@ If you use this repository for your research or wish to refer to our distillatio
   journal={arXiv preprint arXiv:2403.05451},
   year={2024}
 }
+
+@article{mansourian2023aicsd,
+  title={AICSD: Adaptive Inter-Class Similarity Distillation for Semantic Segmentation},
+  author={Mansourian, Amir M and Ahmadi, Rozhan and Kasaei, Shohreh},
+  journal={arXiv preprint arXiv:2308.04243},
+  year={2023}
+}
 ```
 
 ### Acknowledgement
