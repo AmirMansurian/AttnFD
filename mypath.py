@@ -11,7 +11,7 @@ class Path(object):
         elif dataset == 'cityscapes':
             return '/path/to/datasets/cityscapes/Cityspaces'     # foler that contains leftImg8bit/
         elif dataset == 'coco':
-            return '/path/to/datasets/coco/'
+            return '/kaggle/input/coco-2017-dataset/coco2017/'
         else:
             print('Dataset {} not available.'.format(dataset))
             raise NotImplementedError
