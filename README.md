@@ -1,13 +1,12 @@
 ## Feature Distillation 
 
-<!--- The source code of [(Attention-guided Feature Distillation for Semantic Segmentation)](https://arxiv.org/abs/2403.05451).
+The source code of [(Attention-guided Feature Distillation for Semantic Segmentation)](https://arxiv.org/abs/2403.05451).
  
- %Also, see our previous work [(Adaptive Inter-Class Similarity Distillation for Semantic Segmentation)](https://github.com/AmirMansurian/AICSD).
+ Also, see our previous work [(Adaptive Inter-Class Similarity Distillation for Semantic Segmentation)](https://github.com/AmirMansurian/AICSD).
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/AmirMansurian/AttnFD/main/Images/diagram.png"  width="600" height="300"/>
 </p>
--->
 
 ### Requirements
 
