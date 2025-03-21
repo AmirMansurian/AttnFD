@@ -1,4 +1,4 @@
-## Feature Distillation 
+## Attention-guided Feature Distillation for Semantic Segmentation
 [![arXiv](https://img.shields.io/badge/arXiv-2403.05451-<COLOR>.svg)](https://arxiv.org/abs/2403.05451)
 ![Stars](https://img.shields.io/github/stars/AmirMansurian/AttnFD?style=social)
 ![Forks](https://img.shields.io/github/forks/AmirMansurian/AttnFD?style=social)
