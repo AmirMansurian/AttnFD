@@ -91,6 +91,13 @@ If you use this repository for your research or wish to refer to our distillatio
   year={2025},
   publisher={Springer}
 }
+
+@article{mansourian2025comprehensive,
+  title={A Comprehensive Survey on Knowledge Distillation},
+  author={Mansourian, Amir M and Ahmadi, Rozhan and Ghafouri, Masoud and Babaei, Amir Mohammad and Golezani, Elaheh Badali and Ghamchi, Zeynab Yasamani and Ramezanian, Vida and Taherian, Alireza and Dinashi, Kimia and Miri, Amirali and others},
+  journal={arXiv preprint arXiv:2503.12067},
+  year={2025}
+}
 ```
 
 ### Acknowledgement
