@@ -10,7 +10,7 @@ The source code of [(Attention-guided Feature Distillation for Semantic Segmenta
  - [A Comprehensive Survey on Knowledge Distillation](https://github.com/IPL-sharif/KD_Survey)
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/AmirMansurian/AttnFD/main/Images/diagram.png"  width="600" height="300"/>
+ <img src="https://raw.githubusercontent.com/AmirMansurian/AttnFD/refs/heads/main/Images/new_diagram.png"  width="800" height="400"/>
 </p>
 
 ### Requirements
@@ -76,7 +76,7 @@ Comparison of results on the Cityscapes dataset.
 
  
  ## Citation
-If you use this repository for your research or wish to refer to our distillation method, please use the following BibTeX entry:
+If you use this repository for your research or wish to refer to our distillation method, please use the following BibTeX entries:
 ```bibtex
 @article{mansourian2024attention,
   title={Attention-guided Feature Distillation for Semantic Segmentation},
